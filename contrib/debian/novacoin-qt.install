@@ -1,0 +1,5 @@
+LUNA-qt usr/bin
+share/pixmaps/LUNA32.xpm usr/share/pixmaps
+share/pixmaps/LUNA80.xpm usr/share/pixmaps
+debian/LUNA-qt.desktop usr/share/applications
+debian/LUNA-qt.protocol usr/share/kde4/services/

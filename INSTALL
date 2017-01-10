@@ -1,0 +1,9 @@
+Building LUNA
+
+See doc/readme-qt.rst for instructions on building LUNA Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LUNA.
+
+See doc/build-*.txt for instructions on building LUNAd,
+the intended-for-services, no-graphical-interface, reference
+implementation of LUNA.

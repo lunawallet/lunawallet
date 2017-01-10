@@ -1,0 +1,11 @@
+[Unit]
+Description=LUNA daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=LUNA
+ExecStart=/opt/LUNA/LUNAd
+
+[Install]
+WantedBy=multi-user.target
