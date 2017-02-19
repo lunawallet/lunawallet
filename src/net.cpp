@@ -940,8 +940,6 @@ void ThreadSocketHandler2(void* parg)
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
     {"212.24.102.92", "212.24.102.92"},
-	{"seed4.cryptolife.net", "seed4.cryptolife.net"},
-	{"electrum5.cryptolife.net", "electrum5.cryptolife.net"}
 };
 
 void ThreadDNSAddressSeed(void* parg)
